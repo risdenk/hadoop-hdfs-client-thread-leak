@@ -17,7 +17,7 @@
         <hadoop.version>3.2.0</hadoop.version>
 
         <randomizedtesting.version>2.7.3</randomizedtesting.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
